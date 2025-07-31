@@ -1,1 +1,18 @@
-"hi "
+**YOUTUBE:** https://youtu.be/yjyEaoi6qeM
+
+---
+
+**ARCH BASED INSTALLATION**
+
+>Instalaltion from some desktop environment first install:
+
+```
+sudo pacman -S micro kitty thunar fish rofi-wayland hyprland
+```
+
+```
+paru -S vscodium librewolf
+```
+
+**INSTALL DISPLAY MANAGER**
+
