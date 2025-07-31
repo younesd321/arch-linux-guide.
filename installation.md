@@ -1,5 +1,6 @@
 # arch-linux-guide.
-**YOUTUBE:** https://youtu.be/yjyEaoi6qeM
+**YOUTUBE:** https://www.youtube.com/watch?v=4dKzYmhcGEU&t=903s
+
 
 ---
 
@@ -8,12 +9,15 @@
 >Instalaltion from some desktop environment first install:
 
 ```
-sudo pacman -S micro kitty thunar fish rofi-wayland hyprland
+sudo pacman -S ...
 ```
 
 ```
-paru -S vscodium librewolf
+yay -S ...
 ```
 
 **INSTALL DISPLAY MANAGER**
-**ggggg**
+
+
+------------------------------------------------------------------------
+**YOUTUBE:** https://www.youtube.com/watch?v=odgD_RdJjCU
