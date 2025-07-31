@@ -1,1 +1,1 @@
-# arch-linux-kde-guide.
+# arch-linux-guide.
